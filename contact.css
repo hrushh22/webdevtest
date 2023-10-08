@@ -1,0 +1,12 @@
+body {
+  color: black;
+  background: url("images/insanity-wp.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact {
+  bottom: 0;
+  position: fixed;
+  right: 0;
+}
